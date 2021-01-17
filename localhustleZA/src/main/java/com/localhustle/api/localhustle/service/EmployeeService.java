@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author wanda
+ * @author wanda kaak
  */
 public interface EmployeeService {
 	
