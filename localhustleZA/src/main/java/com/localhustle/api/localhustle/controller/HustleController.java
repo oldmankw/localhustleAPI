@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
  *
  * @author photo
  */
-@Controller
+@RestController
 @RequestMapping("/api")
 public class HustleController 
 {
